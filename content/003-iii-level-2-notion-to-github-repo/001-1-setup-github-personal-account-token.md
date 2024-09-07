@@ -7,13 +7,13 @@ weight = 1
 Open [PAT management page](https://github.com/settings/tokens?type=beta), go to Generate new token page (may require re-authentication)
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-716940-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-778625-image.png)
 
 
 Fill in your selection and information
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-196755-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-517031-image.png)
 
 
 Only allow this token to have access to some repositories.
@@ -22,33 +22,33 @@ Only allow this token to have access to some repositories.
 Repository access → only some repositories → Select `sample-notion-to-repo` repository.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-623331-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-632221-image.png)
 
 
 It looks like this when the desired repository is selected.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-603380-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-270993-image.png)
 
 
 We **don’t need** any **Account permissions**, any only **allow ENOUGH** **Repository permissions**.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-125226-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-988491-image.png)
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-680244-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-909355-image.png)
 
 
 Check the permission overview last time, generate token.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-992912-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-351997-image.png)
 
 
 **Please copy this PAT and save it carefully**, that note is not kidding
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/13-915068-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/13-243070-image.png)
 
 
