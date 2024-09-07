@@ -10,9 +10,9 @@ In this integration configuration, we will find our **Notion integration token**
 Click “Show” to see it, we’ll use it later.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/5-498341-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/5-164988-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/5-357173-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/5-888144-image.png)
 
 
