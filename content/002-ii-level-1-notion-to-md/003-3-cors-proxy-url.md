@@ -19,16 +19,16 @@ To use the **free CORS Proxy**, we input our free CORS Proxy URL.
 When click, it will auto fill in [`https://cors-anywhere.herokuapp.com/`](https://cors-anywhere.herokuapp.com/) and open a new tab.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/10-171972-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/10-244050-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/10-100074-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/10-381979-image.png)
 
 
 On the new tab, we will click “Request temporary access…” to allow us to use this free CORS Proxy.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/10-422399-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/10-197503-image.png)
 
 
 **DISCLAIMER:** 
@@ -39,6 +39,6 @@ On the new tab, we will click “Request temporary access…” to allow us to u
 4. If you’re still afraid about the security, you can use **your own CORS Proxy URL** or your **trusted CORS Proxy URL**, you’re very welcome to do so.
 5. The only time we use this **CORS Proxy** is when we **click “Convert”** to get Notion page information, **no any other features/actions will use this CORS Proxy.**
 
-	![image.png](/images/002-ii-level-1-notion-to-md/10-189497-image.png)
+	![image.png](/images/002-ii-level-1-notion-to-md/10-295465-image.png)
 
 
