@@ -10,7 +10,7 @@ We need this to make API can get YOUR Notion page content.
 Enter [Notion integration page](https://www.notion.so/profile/integrations), select “New integration”
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-525412-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-790374-image.png)
 
 
 Set fields:
@@ -20,10 +20,10 @@ Set fields:
 3. Type: internal (allow this integration will only be able to use by you)
 4. Logo (optional)
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-132970-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-576197-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-944952-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-923390-image.png)
 
 
 Click “Configure integration settings” to go to Notion integration details.

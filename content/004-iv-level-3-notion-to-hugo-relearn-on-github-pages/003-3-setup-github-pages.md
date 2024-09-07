@@ -7,12 +7,12 @@ weight = 3
 Enable GitHub Pages on this repository
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/18-507255-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/18-247609-image.png)
 
 
 (Optional) Setup custom domain, my is [`notion-to-md.bamidev.com`](http://notion-to-md.bamidev.com/)
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/18-527661-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/18-971734-image.png)
 
 
