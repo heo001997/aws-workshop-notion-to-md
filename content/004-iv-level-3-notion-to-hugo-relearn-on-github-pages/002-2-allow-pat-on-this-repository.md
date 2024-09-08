@@ -10,18 +10,18 @@ Open the GitHub **Personal Access Token (PAT)** page, and select our **Notion to
 Click **"Edit"** on your current GitHub Personal Access Token page.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-524403-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-781624-image.png)
 
 
 Allow the token to edit this Notion to Markdown repository by selecting it.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-797223-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-384692-image.png)
 
 
 You should see your repo selected. Click "Update".
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-615644-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-449555-image.png)
 
 
