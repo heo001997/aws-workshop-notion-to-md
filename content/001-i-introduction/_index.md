@@ -5,12 +5,12 @@ weight = 1
 +++
 
 
-This workshop is about how to use the simple & free tool “Notion to MD” to convert your workshop from Notion to multi-format (MD, Github Pages, Hugo Relearn…) within minutes.
+This workshop is about how to use the simple and free tool [Notion to MD](https://notion-to-markdown.bamidev.com/) to convert your content from Notion to multiple formats (MD, GitHub Pages, Hugo Relearn, etc.) within minutes.
 
 
-Each chapter of the tutorial will guide you how to use this tool from basic to advance level.
+Each chapter of the tutorial will guide you through how to use this tool from basic to advanced levels.
 
 
-The last chapter we will have FDQs (Frequently Debate Questions), where we talk about technology reasoning and more…
+In the last chapter, we will have Frequently Debate Questions (FDQs), where we discuss technology reasoning and more...
 
 

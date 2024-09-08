@@ -4,18 +4,18 @@ weight = 1
 +++
 
 
-Our tool needs your Notion `page_id`, we can get it from Notion’s database query or by Published Page’s URL
+Our tool needs your Notion `page_id`, which can be obtained either from Notion’s database query or the Published Page’s URL.
 
 
-Here we’ll follow the simple solution by publish our Notion page: Share → Publish site → Publish
+We’ll follow the simpler solution: Publish your Notion page (Share → Publish site → Publish) to get Published Page’s URL.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-262401-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-296554-image.png)
 
 
 And now we have our Published Page’s URL
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-774620-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-883753-image.png)
 
 
