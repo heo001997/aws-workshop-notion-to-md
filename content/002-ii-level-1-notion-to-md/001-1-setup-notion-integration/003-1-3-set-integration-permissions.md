@@ -10,6 +10,6 @@ In this integration configuration, we will only set the necessary permissions.
 Only allow the API to **Read content** with **No user information**
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/6-570119-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/6-366110-image.png)
 
 
