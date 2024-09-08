@@ -7,18 +7,18 @@ weight = 4
 Open [Notion to MD](https://notion-to-md.bamidev.com/)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/11-112830-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/11-146958-image.png)
 
 
 Fill in with your Notion Secret, Notion published page’s URL, CORS Proxy URL.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/11-417997-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/11-734598-image.png)
 
 
 Successfully get the information, now you can Preview / copy to Clipboard / Download your Markdown.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/11-484839-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/11-743734-image.png)
 
 
