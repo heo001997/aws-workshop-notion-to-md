@@ -7,7 +7,7 @@ weight = 2
 Open [Notion to MD](https://notion-to-md.bamidev.com/), fill in the information and process to this step, click “Parse into Hugo Relearn”
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-772535-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-453989-image.png)
 
 
 It will show table “Chapter Structure”, we can preview and check if the git repository structure here with parse match with the heading inside our Notion’s page.
@@ -21,39 +21,39 @@ The repository structure will follow 2 simple rules:
 Try not think too much about this structure yet, just follow the trial and error principle, we will be more than ok.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-178919-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-603282-image.png)
 
 
 Fill in the Sync to Github information, start “Sync to GitHub”
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-706947-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-683301-image.png)
 
 
 (Troubleshooter) This error may occurred if you use a totally new repository with any commit.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-607958-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-291181-image.png)
 
 
 Solution is to init the git repository, just use the simple git instruction is enough
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-545290-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-369080-image.png)
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-453126-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-744704-image.png)
 
 
 If everything is good, the process will start and scroll down from step to step, when it’s done, you will see this message.
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-387645-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-626360-image.png)
 
 
 Double check the GitHub repository, you can see the `content` directory (holding contents), and `static` directory (holding images) is created ⇒ success
 
 
-![image.png](/images/003-iii-level-2-notion-to-github-repo/14-773482-image.png)
+![image.png](/images/003-iii-level-2-notion-to-github-repo/14-689242-image.png)
 
 
