@@ -4,24 +4,24 @@ weight = 2
 +++
 
 
-Open GitHub Personal Access Token page, select our Notion to Markdown PAT token.
+Open the GitHub **Personal Access Token (PAT)** page, and select our **Notion to Markdown PAT** token.
 
 
-Click “Edit” our current GitHub Personal Access Token page
+Click **"Edit"** on your current GitHub Personal Access Token page.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-652412-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-674053-image.png)
 
 
-Allow the current token edit this Notion to Markdown repository by select it 
+Allow the token to edit this Notion to Markdown repository by selecting it.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-270311-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-383235-image.png)
 
 
-You should see your repo selected, click “Update”
+You should see your repo selected. Click "Update".
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-789331-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/17-401639-image.png)
 
 

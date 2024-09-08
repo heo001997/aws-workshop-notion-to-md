@@ -4,41 +4,38 @@ weight = 3
 +++
 
 
-Since our [Notion to Markdown website](https://notion-to-md.bamidev.com/) is 100% running on Github Static Pages, we **WILL NOT** save any of your information, your information always stay in your browser, all the requests will be called directly from YOUR browser.
+Since our [Notion to Markdown website](https://notion-to-md.bamidev.com/) is 100% hosted on GitHub Pages, we **WILL NOT** store any of your information. Everything stays in your browser, and all requests will be made directly from it.
 
 
-Unfortunately, this kind of request is [violate Notion CORS policy and won’t be support](https://github.com/makenotion/notion-sdk-js/issues/96#issuecomment-852542180), but that’s ok, we will use a CORS Proxy as a middle man to bypass this policy.
+However, Notion’s CORS policy restricts these kinds of requests . We’ll use a **CORS Proxy** as a middleman to bypass this.
 
 
 To use the **free CORS Proxy**, we input our free CORS Proxy URL.
 
 
-(Optional part) For convenient, I’ve add a free proxy note.
+(Optional) For convenience, I’ve added a proxy note. Clicking it will automatically fill in [`https://cors-anywhere.herokuapp.com/`](https://cors-anywhere.herokuapp.com/) and open a new tab.
 
 
-When click, it will auto fill in [`https://cors-anywhere.herokuapp.com/`](https://cors-anywhere.herokuapp.com/) and open a new tab.
+![image.png](/images/002-ii-level-1-notion-to-md/10-503970-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/10-199335-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/10-550945-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/10-998688-image.png)
+On the new tab, click **"Request temporary access"** to allow the use of this free CORS Proxy.
 
 
-On the new tab, we will click “Request temporary access…” to allow us to use this free CORS Proxy.
-
-
-![image.png](/images/002-ii-level-1-notion-to-md/10-111477-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/10-951712-image.png)
 
 
 **DISCLAIMER:** 
 
-1. **CORS Proxy is a middle man, means it can read all your requests & responses credentials. So choose a safe CORS Proxy to use, or built your own for the highest security protection.**
-2. In this tutorial, we’ll use a **Free CORS Proxy URL** for the highest convenient and **accept the risk of losing our NOTION credentials (with request & response too).**
-3. But to be honest I’m not afraid at all, because we’ve already **limit** our **Notion token permissions** to **Read content** with **No user information**, also the **Notion URL is a published page** (already public). So even in the worst case when we actually lose **our Notion credentials (with request & response)**, the hacker **cannot update nor delete** **anything, can it can only read my public and selected pages.**
-4. If you’re still afraid about the security, you can use **your own CORS Proxy URL** or your **trusted CORS Proxy URL**, you’re very welcome to do so.
-5. The only time we use this **CORS Proxy** is when we **click “Convert”** to get Notion page information, **no any other features/actions will use this CORS Proxy.**
+1. **A CORS Proxy acts as a middleman**, meaning it can read all your requests and response credentials. Therefore, it is important to choose a trusted CORS Proxy or build your own for the highest level of security.
+2. In this tutorial, we’ll use a **Free CORS Proxy URL** for convenience, please be fully aware of the **risk of exposing our NOTION credentials** (both requests and responses).
+3. But to be honest, I’m not too concerned because we have already **limited our Notion token permissions** to **Read content** with **No user information**. Additionally, the **Notion URL is for a published page** (which is already public). So even in the worst-case scenario where we lose our **Notion credentials**, a hacker **cannot update or delete anything**—they would only be able to read the public and selected pages.
+4. If you're still worried about security, you can use **your own CORS Proxy URL** or a **trusted CORS Proxy URL**. You are very welcome to do so.
+5. The only time we use this **CORS Proxy** is when you **click "Convert"** to retrieve the Notion page information. **No other features or actions** will use this CORS Proxy.
 
-	![image.png](/images/002-ii-level-1-notion-to-md/10-520628-image.png)
+	![image.png](/images/002-ii-level-1-notion-to-md/10-321288-image.png)
 
 

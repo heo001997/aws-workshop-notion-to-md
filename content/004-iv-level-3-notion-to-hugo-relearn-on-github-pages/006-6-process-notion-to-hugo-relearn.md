@@ -4,36 +4,39 @@ weight = 6
 +++
 
 
-Open [Notion to MD](https://notion-to-md.bamidev.com/), fill in the information and process to this step, click “Parse into Hugo Relearn”
+Open [Notion to MD](https://notion-to-md.bamidev.com/), fill in the required information, and proceed to the step where you click “Parse into Hugo Relearn.”
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-384920-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-217828-image.png)
 
 
-Fill Sync to Github section with our GitHub token and repo URL, click “Sync to GitHub”
+Fill in the **Sync to GitHub** section with your GitHub token and repository URL, then click **“Sync to GitHub.”**
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-735435-image.png)
+Once the sync is complete, you can check the **GitHub Action** to ensure everything is functioning properly.
+
+
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-163997-image.png)
 
 
 Sync complete
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-479760-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-925984-image.png)
 
 
 Let’s check the GitHub Action, it’s ok now
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-612605-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-444858-image.png)
 
 
-Double check the website ⇒ everything is ok now.
+Double check your website ⇒ everything is ok now.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-888525-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/21-901133-image.png)
 
 
-Congratulate, you have finally utilize this Notion to Markdown tool to the highest extends.
+Congratulations! You have successfully utilized the Notion to Markdown tool to its fullest extent.
 
 

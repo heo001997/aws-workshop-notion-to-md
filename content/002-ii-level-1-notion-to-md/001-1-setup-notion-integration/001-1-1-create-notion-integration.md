@@ -4,28 +4,28 @@ weight = 1
 +++
 
 
-We need this to make API can get YOUR Notion page content.
+We need this to allow the API to access your Notion page content.
 
 
-Enter [Notion integration page](https://www.notion.so/profile/integrations), select “New integration”
+Go to the [Notion integration page](https://www.notion.so/profile/integrations), select “New integration”.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-404452-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-798889-image.png)
 
 
-Set fields:
+Complete the fields:
 
-1. Integration name: any name, here I set “Page to MD”
-2. Workplace: select your workplace…
-3. Type: internal (allow this integration will only be able to use by you)
-4. Logo (optional)
+1. Integration name: Any name (e.g., “Page to MD”)
+2. Workplace: Select your workplace
+3. Type: Internal (this integration can only be used by you)
+4. Logo: (optional)
 
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-573591-image.png)
-
-
-![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-723733-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-244205-image.png)
 
 
-Click “Configure integration settings” to go to Notion integration details.
+![image.png](/images/002-ii-level-1-notion-to-md/001-1-setup-notion-integration/4-429312-image.png)
+
+
+Click “Configure integration settings” to go to the Notion integration details.
 
 
